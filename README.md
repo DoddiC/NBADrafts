@@ -1,13 +1,13 @@
 # What Makes a Top 10 NBA Draft Pick?
 **Analyzing Player Attributes from Top 10 NBA First Round Draft Picks**
 
-Authors: Matthew Muccio, William Miller
+Author: Chidvi Doddi
 
 ## Project Abstract
 
 Every June, the National Basketball Association (NBA) holds a draft, where each of the thirty teams have an oppurtunity to select two top prospects to join their organization. With only two rounds in the draft - and only two chances per team - it is crucial that a team does proper research, scouting, and analysis to ensure that their draft picks have a significant impact on their odds at winning a championship.
 
-Using the NBA data API for all players currently in the league, we will examine top 10 draft picks and see how they compare to all players in the league. Then we will make use of various individual player attributes to determine what properties correlate to top NBA draft picks. After having read through our data analysis, we hope that you will understand the importance of research and scouting that NBA teams undergo in selecting top draft picks.
+Using the NBA data API for all players currently in the league, I will examine top 10 draft picks and see how they compare to all players in the league. Then, I will make use of various individual player attributes to determine what properties correlate to top NBA draft picks. After having read through our data analysis, I hope that you will understand the importance of research and scouting that NBA teams undergo in selecting top draft picks.
 
 ## Project Outline
 
